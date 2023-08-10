@@ -1,3 +1,5 @@
 # Candleaf_Landing_Page
 Uma pagina inicial de um site de vendas de produtos
-<img src="https://imgur.com/a/LKH2bay">
+<video width="320" height="240" controls>
+  <source src="https://imgur.com/a/LKH2bay" type="video/mp4">
+</video>
